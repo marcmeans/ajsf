@@ -1,0 +1,15 @@
+{
+  "name": "marc/ajsf",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "bmewburn.vscode-intelephense-client",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "angular.ng-template",
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker",
+    "timonwong.shellcheck",
+    "tyriar.sort-lines"
+  ]
+}
